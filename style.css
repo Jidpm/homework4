@@ -110,6 +110,9 @@ main{
 
 }
 .mycart2 .fa-trash{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 20px;
     color: rgb(128, 246, 206);
     border: 1px solid rgb(128, 246, 206);
@@ -125,7 +128,7 @@ main{
 .mycart2 .gglogo {
     font-size: 20px;
     position: absolute;
-    left: 210px;
+    left: 250px;
     color: white;
     width: 40%;
 
